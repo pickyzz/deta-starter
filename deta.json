@@ -16,6 +16,36 @@
 			"key": "LEAN_MASTER_KEY",
 			"description": "Your LeanCloud Master Key",
 			"required": false 
-		}
+		},
+		{
+			"key": "MYSQL_HOST",
+			"description": "",
+			"required": false 
+		},
+		{
+			"key": "MYSQL_DB",
+			"description": "",
+			"required": false 
+		},
+		{
+			"key": "MYSQL_USER",
+			"description": "",
+			"required": false 
+		},
+		{
+			"key": "MYSQL_PASSWORD",
+			"description": "",
+			"required": false 
+		},
+		{
+			"key": "MYSQL_SSL",
+			"description": "usally true",
+			"required": false 
+		},
+		{
+			"key": "DISABLE_REGION",
+			"description": "disbale region show in comment",
+			"required": false 
+		},
 	]
 }
