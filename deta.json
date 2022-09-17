@@ -19,22 +19,22 @@
 		},
 		{
 			"key": "MYSQL_HOST",
-			"description": "",
+			"description": "MYSQL_HOST",
 			"required": false 
 		},
 		{
 			"key": "MYSQL_DB",
-			"description": "",
+			"description": "MYSQL_DB",
 			"required": false 
 		},
 		{
 			"key": "MYSQL_USER",
-			"description": "",
+			"description": "MYSQL_USER",
 			"required": false 
 		},
 		{
 			"key": "MYSQL_PASSWORD",
-			"description": "",
+			"description": "MYSQL_PASSWORD",
 			"required": false 
 		},
 		{
@@ -46,6 +46,6 @@
 			"key": "DISABLE_REGION",
 			"description": "disbale region show in comment",
 			"required": false 
-		},
+		}
 	]
 }
